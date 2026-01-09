@@ -22,3 +22,7 @@ special thanks:
 - https://modrinth.com/datapack/fantazs-better-ghast-harness
 - https://www.youtube.com/@Cl0udWolf
 - https://www.youtube.com/@InfernalDevice
+
+---
+https://github.com/oliglance/harness_enchanting
+https://modrinth.com/datapack/vanilla-harness-enchanting

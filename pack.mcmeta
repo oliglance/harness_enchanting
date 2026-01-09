@@ -1,0 +1,15 @@
+{
+	"pack": {
+		"description": [
+      { "text": "§7vanilla enchanted harnesses\bby " },
+      { "text": "oliglance", "color": "#818F37" }
+    ],
+    "pack_format": 94,
+		"min_format": 80,
+		"max_format": 94,
+    "supported_formats": {
+      "min_inclusive": 80,
+      "max_inclusive": 94
+    }
+	}
+}
