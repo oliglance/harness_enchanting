@@ -24,5 +24,5 @@ special thanks:
 - https://www.youtube.com/@InfernalDevice
 
 ---
-https://github.com/oliglance/harness_enchanting
+https://github.com/oliglance/harness_enchanting  
 https://modrinth.com/datapack/vanilla-harness-enchanting
