@@ -1,9 +1,7 @@
 {
 	"pack": {
 		"description": [
-      { "text": "§7vanilla enchanted harnesses" },
-      "\n",
-      { "text": "§7by " },
+      { "text": "§7vanilla enchanted harnesses\bby " },
       { "text": "oliglance", "color": "#818F37" }
     ],
     "pack_format": 94,
